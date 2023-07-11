@@ -1,0 +1,17 @@
+* Initial Notes
+- avoid tweaking hyper parameters until we have a car going around the track
+- minimize you action space based on track to save on tracking time
+  * e.g. if your race is clockwise your car might not need to ever consider turning left
+- race format seems to encourage over fitting
+- first test race is ace speedway
+- start with additive reward function rather than multiplicative
+- have default reward value that is only lost for egregious actions
+- entropy pattern is reset when model is cloned so expect different behavior
+- add reward on lap completion
+- seems worth using on the spot for training and jupyter notebook for log analysis
+
+* Important Links
+- [[https://bit.ly/35KqkKb][sandbox]]
+- [[https://towardsdatascience.com/an-advanced-guide-to-aws-deepracer-2b462c37eea][approach description]]
+- [[https://github.com/aws-deepracer-community][deepracer community repos]]
+- [[https://github.com/aws-deepracer-community/deepracer-on-the-spot][deepracer on the spot]]

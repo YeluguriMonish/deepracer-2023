@@ -15,3 +15,9 @@
 - [[https://towardsdatascience.com/an-advanced-guide-to-aws-deepracer-2b462c37eea][approach description]]
 - [[https://github.com/aws-deepracer-community][deepracer community repos]]
 - [[https://github.com/aws-deepracer-community/deepracer-on-the-spot][deepracer on the spot]]
+
+* Important Dates
+- 07/17 - 07/21 => First Test Race A
+- 07/24 - 07/28 => First Test Race B
+- 08/07 - 08/11 => Second Test Race
+- 09/11 - 09/15 => City Finals
